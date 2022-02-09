@@ -1,0 +1,15 @@
+canvas {
+    margin-top: 10px;
+    box-shadow: 15px 15px 15px black;
+    background-color: grey;
+}
+
+.footer { 
+    position: fixed; 
+    color: white; 
+    bottom: 0; 
+    width: 100%; 
+    background-color:grey; 
+    line-height: 3;
+    text-align: center; 
+}
